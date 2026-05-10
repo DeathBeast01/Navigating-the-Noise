@@ -1,2 +1,4 @@
 cd /home/user/Navigating-the-Noise
-git push origin claude/add-3d-visuals-wz5t4
+git checkout main
+git merge claude/add-3d-visuals-wz5t4
+git push origin main
